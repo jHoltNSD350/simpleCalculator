@@ -1,0 +1,43 @@
+﻿<Window x:Class="NumberGuess.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:NumberGuess"
+        mc:Ignorable="d"
+        MinHeight="335"
+        MinWidth="235"
+        Title="Simple Calculator" Height="330" Width="225">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="212*"/>
+            <ColumnDefinition Width="7*"/>
+        </Grid.ColumnDefinitions>
+        <TextBox x:Name="Input" HorizontalAlignment="Left" Height="30" Margin="10,10,0,0" TextWrapping="NoWrap" VerticalAlignment="Top" Width="200"/>
+        <Button Content="%" HorizontalAlignment="Left" Margin="10,50,0,0" VerticalAlignment="Top" Width="50" Height="40"/>
+        <Button Content="CE" HorizontalAlignment="Left" Margin="60,50,0,0" VerticalAlignment="Top" Width="50" Height="40"/>
+        <Button Content="C" HorizontalAlignment="Left" Margin="110,50,0,0" VerticalAlignment="Top" Width="50" Height="40"/>
+        <Button Content="&#9003;" HorizontalAlignment="Left" Margin="160,50,0,0" VerticalAlignment="Top" Width="50" Height="40"/>
+        <Button Content="&#x215F;x" HorizontalAlignment="Left" Margin="10,90,0,0" VerticalAlignment="Top" Width="50" Height="40"/>
+        <Button Content="x&#xb2;" HorizontalAlignment="Left" Margin="60,90,0,0" VerticalAlignment="Top" Width="50" Height="40"/>
+        <Button Content="&#x221A;" HorizontalAlignment="Left" Margin="110,90,0,0" VerticalAlignment="Top" Width="50" Height="40"/>
+        <Button Content="&#xf7;" HorizontalAlignment="Left" Margin="160,90,0,0" VerticalAlignment="Top" Width="50" Height="40"/>
+        <Button Content="7" HorizontalAlignment="Left" Margin="10,130,0,0" VerticalAlignment="Top" Width="50" Height="40"/>
+        <Button Content="8" HorizontalAlignment="Left" Margin="60,130,0,0" VerticalAlignment="Top" Width="50" Height="40"/>
+        <Button Content="9" HorizontalAlignment="Left" Margin="110,130,0,0" VerticalAlignment="Top" Width="50" Height="40"/>
+        <Button Content="&#xd7;" HorizontalAlignment="Left" Margin="160,130,0,0" VerticalAlignment="Top" Width="50" Height="40"/>
+        <Button Content="4" HorizontalAlignment="Left" Margin="10,170,0,0" VerticalAlignment="Top" Width="50" Height="40"/>
+        <Button Content="5" HorizontalAlignment="Left" Margin="60,170,0,0" VerticalAlignment="Top" Width="50" Height="40"/>
+        <Button Content="6" HorizontalAlignment="Left" Margin="110,170,0,0" VerticalAlignment="Top" Width="50" Height="40"/>
+        <Button Content="+" HorizontalAlignment="Left" Margin="160,170,0,0" VerticalAlignment="Top" Width="50" Height="40"/>
+        <Button Content="1" HorizontalAlignment="Left" Margin="10,210,0,0" VerticalAlignment="Top" Width="50" Height="40"/>
+        <Button Content="2" HorizontalAlignment="Left" Margin="60,210,0,0" VerticalAlignment="Top" Width="50" Height="40"/>
+        <Button Content="3" HorizontalAlignment="Left" Margin="110,210,0,0" VerticalAlignment="Top" Width="50" Height="40"/>
+        <Button Content="-" HorizontalAlignment="Left" Margin="160,210,0,0" VerticalAlignment="Top" Width="50" Height="40"/>
+        <Button Content="&#x207A;/&#x208B;" HorizontalAlignment="Left" Margin="10,250,0,0" VerticalAlignment="Top" Width="50" Height="40"/>
+        <Button Content="0" HorizontalAlignment="Left" Margin="60,250,0,0" VerticalAlignment="Top" Width="50" Height="40"/>
+        <Button Content="." HorizontalAlignment="Left" Margin="110,250,0,0" VerticalAlignment="Top" Width="50" Height="40"/>
+        <Button Content="=" HorizontalAlignment="Left" Margin="160,250,0,0" VerticalAlignment="Top" Width="50" Height="40"/>
+
+    </Grid>
+</Window>

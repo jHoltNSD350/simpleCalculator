@@ -1,0 +1,15 @@
+C:\Users\jholt\source\repos\NumberGuess\NumberGuess\bin\Debug\NumberGuess.exe.config
+C:\Users\jholt\source\repos\NumberGuess\NumberGuess\bin\Debug\NumberGuess.exe
+C:\Users\jholt\source\repos\NumberGuess\NumberGuess\bin\Debug\NumberGuess.pdb
+C:\Users\jholt\source\repos\NumberGuess\NumberGuess\obj\Debug\NumberGuess.csprojAssemblyReference.cache
+C:\Users\jholt\source\repos\NumberGuess\NumberGuess\obj\Debug\MainWindow.g.cs
+C:\Users\jholt\source\repos\NumberGuess\NumberGuess\obj\Debug\App.g.cs
+C:\Users\jholt\source\repos\NumberGuess\NumberGuess\obj\Debug\NumberGuess_MarkupCompile.cache
+C:\Users\jholt\source\repos\NumberGuess\NumberGuess\obj\Debug\NumberGuess_MarkupCompile.lref
+C:\Users\jholt\source\repos\NumberGuess\NumberGuess\obj\Debug\MainWindow.baml
+C:\Users\jholt\source\repos\NumberGuess\NumberGuess\obj\Debug\NumberGuess.g.resources
+C:\Users\jholt\source\repos\NumberGuess\NumberGuess\obj\Debug\NumberGuess.Properties.Resources.resources
+C:\Users\jholt\source\repos\NumberGuess\NumberGuess\obj\Debug\NumberGuess.csproj.GenerateResource.cache
+C:\Users\jholt\source\repos\NumberGuess\NumberGuess\obj\Debug\NumberGuess.csproj.CoreCompileInputs.cache
+C:\Users\jholt\source\repos\NumberGuess\NumberGuess\obj\Debug\NumberGuess.exe
+C:\Users\jholt\source\repos\NumberGuess\NumberGuess\obj\Debug\NumberGuess.pdb
